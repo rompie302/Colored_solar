@@ -1,6 +1,3 @@
-#todo: fix utrecht data
-#fix unused parameters
-
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.integrate as integrate
